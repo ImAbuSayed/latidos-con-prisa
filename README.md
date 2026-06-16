@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-con-prisa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos con prisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-prisa/) |
+| **Get License** | [Get License For Latidos con prisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-prisa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle respira tu nombre y tu olor
+> Your body is calling, te busco sintiendo el calor
+> Latidos con prisa, la luna nos sirve de luz
+> Nadie me quita las ganas que tengo de ti, solo tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
