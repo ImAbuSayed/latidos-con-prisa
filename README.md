@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-con-prisa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Latidos con prisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-prisa/) |
+| **Get License** | [Music Rights & Licensing for Latidos con prisa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-con-prisa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `354db9d7be39037779d7e2b243b76128b322dbbd38e5acdbf78eec31f507cf13` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

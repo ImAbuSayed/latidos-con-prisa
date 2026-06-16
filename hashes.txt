@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos con prisa
+
+This log tracks the cryptographic history and versioning for the song **Latidos con prisa** (latidos-con-prisa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:26:27.390082 | `v1` | `354db9d7be39037779d7e2b243b76128b322dbbd38e5acdbf78eec31f507cf13` | `b2fd1c805e24a322d2a14014eb70804edd00d7eb7a0329bfecb229d263e2e3f3` | `2026-06-16_latidos-con-prisa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
